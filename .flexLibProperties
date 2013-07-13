@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="org.br.behavior.patterns.interfaces.IVersion"/>
+    <classEntry path="org.br.behavior.patterns.interfaces.IDestroyable"/>
+    <classEntry path="org.br.behavior.patterns.interfaces.IDisposable"/>
+    <classEntry path="org.br.behavior.core.flex.FlexCore"/>
+    <classEntry path="org.br.behavior.core.flex.FlexShell"/>
+    <classEntry path="org.br.behavior.commands.CommandCreateErrorDeafault"/>
+    <classEntry path="org.br.behavior.commands.CommandValidadeErrorDefault"/>
+    <classEntry path="org.br.behavior.patterns.interfaces.ILog"/>
+    <classEntry path="org.br.log.LogTracer"/>
+    <classEntry path="org.br.log.LogThrowError"/>
+    <classEntry path="org.br.behavior.actions.ActionGroup"/>
+    <classEntry path="org.br.behavior.controllers.UIController"/>
+    <classEntry path="org.br.behavior.patterns.interfaces.IModel"/>
+    <classEntry path="org.br.behavior.models.Model"/>
+    <classEntry path="org.br.examples.testpatern.TestPaternShell"/>
+    <classEntry path="org.br.examples.testpatern.TestModel"/>
+    <classEntry path="org.br.examples.testpatern.commands.TestPaternCommand1"/>
+    <classEntry path="org.br.examples.testpatern.commands.TestPaternCommand2"/>
+    <classEntry path="org.br.examples.testpatern.commands.TestPaternCommand3"/>
+    <classEntry path="org.br.examples.testpatern.TestPaternActions"/>
+    <classEntry path="org.br.examples.teste1.Test1Shell"/>
+    <classEntry path="org.br.examples.teste1.commands.TestCommand1"/>
+    <classEntry path="org.br.examples.teste1.Test1Actions"/>
+    <classEntry path="org.br.examples.teste1.commands.TestCommand2"/>
+    <classEntry path="org.br.behavior.core.commands.CommandAddShell"/>
+    <classEntry path="org.br.behavior.core.commands.CommandRemoveShell"/>
+    <classEntry path="org.br.behavior.patterns.interfaces.IViewController"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
